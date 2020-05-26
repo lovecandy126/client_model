@@ -1,6 +1,6 @@
-module github.com/prometheus/client_model
+module github.com/lovecandy126/client_model
 
-go 1.9
+go 1.13
 
 require (
 	github.com/golang/protobuf v1.2.0
